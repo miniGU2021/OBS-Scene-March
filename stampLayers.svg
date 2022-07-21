@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-90 -90 360 360">
+    <rect x="-9" y="-9" width="198" height="225" fill="rgb(247,247,247)"/>
+    <path d="
+    M -3 -3
+    L 183 -3
+    L 183 192
+    L -3 192
+    L -3 -3
+    M 3 3
+    L 177 3
+    L 177 168
+    L 3 168
+    L 3 3" fill-rule="evenodd" fill="rgb(63,63,63)"/>
+</svg>

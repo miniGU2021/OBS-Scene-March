@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-90 -120 360 480">
+    <path d="
+    M 0 -120
+    L 0 255
+    L 90 215
+    L 180 255
+    L 180 -120
+    L 0 -120" fill="rgb(127,127,127)"/>
+</svg>
